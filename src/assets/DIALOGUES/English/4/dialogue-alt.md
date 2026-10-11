@@ -1,17 +1,13 @@
 ---
 dialogue_alt: [
-    "Then Kali got transported...to a Pre-K classroom!",
-    "A very friendly teacher with purple eyeglasses came in as the other kids are entering!",
-    "\"Kids, let's just wait for my Assistant Teacher, okay?\", said the teacher with the purple eyeglasses.",
-    "A very cute jaguar school mascot came in! And Kali got shy and scared!",
-    "To Kali's relief, the jaguar school mascot decided to reveal himself!",
-    "\"Hahaha! You should definitely look at their faces!\", he commented.",
-    "\"Finally, he's here! Hi kids! I'm Teacher Zeanne, and this is my Assistant Teacher, Zene!\"",
-    "As the other kids greeted, \"Hi Teacher Zene and Teacher Zeanne,\" Kali was thinking...",
-    "\"...Please don't say that you're twins! And that Zene has autism!\"",
-    "But Teachers Zene and Zeanne went on to say...",
-    "\"Fun fact about us, we're actually TWINS!\", Teacher Zeanne said.",
-    "\"And I have AUTISM!\", Teacher Zene added!",
-    "Surprised that his favorite cartoon characters are right in front of him, Kali fainted and fell to the ground!"
+    "So Kali sat beside the girl!",
+    "\"Now Kali, why don't you ask the girl her name, like, \"Hi, what's your name?\"\", Teacher Zene told Kali.",
+    "\"Hi, what's your name?\", Kali asked the girl.",
+    "\"Hi again, Kali! I'm Naomi! I'm so glad you're here!\", said the girl.",
+    "Teacher Zene then told Kali, \"Kali, why don't you reply, \"Hi Naomi! Nice to meet you!\"\"",
+    "\"Hi Naomi! Nice to meet you!\", Kali told Naomi.",
+    "\"Great job! Now you've learned how to earn new friends by introducing yourself and asking for their names!\", said Teacher Zene.",
+    "And yes, Kali enjoyed today's class with Teachers Zene and Zeanne, and earned a lot of friends!",
+    "Kali even drew a picture of himself as a space station school student, complete with the orange jacket uniform!"
 ]
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Into the NeuroverCity"
-date: "2026-08-08"
-synopsis: "Kali is a kid who dreams of going to a space station school...except that he has autism! But his parents prayed and refused to give up, and Kali had speech therapy, occupational therapy, etc. And with a super-special smartwatch, he also got additional help...from his favorite twin buddies Zene and Zeanne!"
+title: "\"Hi, I'm Kali!\""
+date: "2026-08-27"
+synopsis: "Every Au-venturous Buddy (and their parents and siblings) dream of finding their voice one day, and it finally happened for Kali! But that is just the beginning. To earn new friends, Kali has to learn how to introduce himself! But thank God, he has Teachers Zene and Zeanne to help him out on that!"
 ---

@@ -1,10 +1,10 @@
 {
-  "name": "auvb-nvct-bk-2026-i01",
+  "name": "auvb-nvct-bk-2026-i02",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "private": true,
-  "description": "Kali is a kid who dreams of going to a space station school...except that he has autism! But his parents prayed and refused to give up, and Kali had speech therapy, occupational therapy, etc. And with a super-special smartwatch, he also got additional help...from his favorite twin buddies Zene and Zeanne!",
-  "version": "2026.01",
+  "description": "Au-venturous Buddy NeuroverCity: \"Hi, I'm Kali!\"",
+  "version": "2026.02",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
